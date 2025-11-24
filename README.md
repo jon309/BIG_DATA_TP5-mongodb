@@ -1,5 +1,5 @@
 # BIG_DATA_TP5-mongodb
-
+```js
 #i use pop os linux
 #تحديث النظام
 sudo apt update && sudo apt upgrade -y
@@ -186,3 +186,4 @@ info> db.produits.deleteOne({ _id: ObjectId("692431225a0e6418199dc29f") })
 info> db.produits.find()
 
 info> exit
+```js
